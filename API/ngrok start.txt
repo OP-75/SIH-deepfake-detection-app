@@ -1,0 +1,1 @@
+ngrok http --domain=insect-ready-minnow.ngrok-free.app 5000
